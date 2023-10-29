@@ -18,5 +18,8 @@
     <ClCompile Include="suma1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="op8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
